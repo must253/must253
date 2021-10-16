@@ -1,5 +1,1 @@
-### Hi there 👋
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/638324859818213380)](https://discord.com/users/638324859818213380).
-
+<div align="center">Hi there 👋 <a href="https://discord.com/users/638324859818213380" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/638324859818213380"></a> </div>
