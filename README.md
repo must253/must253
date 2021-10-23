@@ -4,10 +4,11 @@
 <a href="https://github.com/must253?tab=followers" title="Github followers"><img src="https://img.shields.io/github/followers/must253.svg?style=social&label=Followers"></a>
 </div>
 
-
+<br>
 <div align="center"><a href="https://github.com/must253" title="Must Github"><img src="https://github-readme-stats.vercel.app/api?username=must253&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a></div>	 
-	
-## 🙋‍♀️ Let's Connect
+
+## <div align="center"> 🙋‍♀️ Let's Connect</div>
+
 <p align="center">
 	<a href="mailto:mmaydemir25@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/must253"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
