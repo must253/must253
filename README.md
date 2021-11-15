@@ -21,3 +21,4 @@
 
 
 
+<div align="center"> <a href="https://discord.com/users/638324859818213380" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/638324859818213380?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=he%20is%20learning%20new%20things..."></a> </div>
