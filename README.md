@@ -1,4 +1,4 @@
-<h1  align="center"> <a href="https://github.com/must253" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'am+Must;I+like+coding;How+are+you+today?;I'm+pretty+fine"> </a></h1> <br><div align="center"> <a href="https://discord.com/users/638324859818213380" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/638324859818213380"></a> </div>
+<h1  align="center"> <a href="https://github.com/must253" ><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'am+Must;I+like+coding;How+are+you+today?;I'm+pretty+fine"> </a></h1> <br><div align="center"> <a href="https://discord.com/users/638324859818213380" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/638324859818213380?idleMessage=he%20is%20learning%20new%20things..."></a> </div>
 <div align="center">
 <a href="https://github.com/must253" title="Github Account"><img src="https://komarev.com/ghpvc/?username=must253"></a>
 <a href="https://github.com/must253?tab=followers" title="Github followers"><img src="https://img.shields.io/github/followers/must253.svg?style=social&label=Followers"></a>
@@ -20,5 +20,18 @@
 </p>
 
 
+```js
+class Must {
+    constructor(options) {
+        this.name = "Mustafa",
+        this.sex = "man",
+        this.length = "181",
+        this.type = "human",
+        this.weight = "65",
+        this.discord.tag = "'Must#0001",
+        this.instagram.name = "aydewirr" 
+    };
+}
 
-<div align="center"> <a href="https://discord.com/users/638324859818213380" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/638324859818213380?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=he%20is%20learning%20new%20things..."></a> </div>
+module.exports = Must
+```
