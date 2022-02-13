@@ -24,6 +24,7 @@
 class Must {
     constructor(options) {
         this.name = "Mustafa",
+	this.age = "16",
         this.sex = "man",
         this.length = "181",
         this.type = "human",
