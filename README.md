@@ -21,17 +21,14 @@
 
 
 ```js
-class Must {
-    constructor(options) {
-        this.name = "Mustafa",
-	this.age = "16",
-        this.sex = "man",
-        this.length = "181",
-        this.type = "human",
-        this.weight = "65",
-        this.discord.tag = "'Must#0001",
-        this.instagram.name = "aydewirr" 
-    };
+var Must = {
+        name : "Mustafa",
+    	age : "16",
+        sex : "man",
+        length : "181",
+        type : "human",
+        weight : "65",
+        discordTag : "'Must#0001" 
 }
 
 module.exports = Must
