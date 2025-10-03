@@ -23,11 +23,11 @@
 ```js
 var Must = {
         name : "Mustafa",
-    	age : "16",
+    	age : "18",
         sex : "man",
-        length : "181",
+        length : "185",
         type : "human",
-        weight : "65",
+        weight : "80",
         discordTag : "'Must#0001" 
 }
 
