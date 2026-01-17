@@ -5,9 +5,6 @@
 </div>
 
 <br>
-<div align="center"><a href="https://github.com/must253" title="Must Github"><img src="https://github-readme-stats.vercel.app/api?username=must253&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"></a></div>	 
-<div align="center"><a href="https://github.com/must253"><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=must253&count_private=true&theme=radical" alt="Must" /></a></div>
-
 
 ## <div align="center"> 🙋‍♀️ Let's Connect</div>
 
